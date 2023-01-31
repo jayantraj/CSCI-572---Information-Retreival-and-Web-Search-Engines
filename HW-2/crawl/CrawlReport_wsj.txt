@@ -1,0 +1,43 @@
+Name: Jayantraj Coimbatore Selvakumar
+USC ID: 3993136235
+News site crawled: wsj.com
+Number of threads: 16
+
+Fetch Statistics
+================
+fetches attempted: 19999
+fetches succeeded: 19538
+fetches failed or aborted: 461
+
+Outgoing URLs:
+==============
+Total URLs extracted: 5880800
+# unique URLs extracted: 2061745
+# unique URLs within News Site: 379674
+# unique URLs outside News Site: 1682071
+
+Status Codes:
+=============
+200 OK: 19538
+301 Moved Permanently: 315
+302 Found: 18
+307 Temporary Redirect: 22
+308 Permanent Redirect: 1
+400 Bad Request: 2
+403 Forbidden: 2
+404 Not Found: 99
+500 Internal Server Error: 2
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 94
+10KB ~ <100KB: 66
+100KB ~ <1MB: 18733
+>= 1MB: 617
+
+Content Types:
+==============
+image/jpeg: 6
+image/png: 104
+text/html: 19401
