@@ -1,0 +1,8 @@
+Search Engine: Yahoo
+Average Percent Overlap (over 100 queries): 19.6
+Average Spearman Coefficient (over 100 queries): -5.10621428571428
+
+By comparing the results from Yahoo and Google, we observe that the average percent overlap between the search engines is just 19.6. It suggests that for the same query, the two search engines return results that are different 80% of the time.
+Also, the average negative spearman coefficient of -5.1 (negative or zero for most queries) confirms that the overlapping results are uncorrelated. 
+The two search engines use different algorithms or techniques for weighting and ranking the documents they determine are most relevant to the query. They also emphasize different or opposed ranking features.
+Finally, if we consider Google our baseline search engine, Yahoo performs poorly compared to Google.
